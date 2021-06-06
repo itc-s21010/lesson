@@ -1,1 +1,0 @@
-"four score and...".capitalize()
